@@ -1,0 +1,26 @@
+/* Set parent element to relative */
+.video-facade {
+    position: relative;
+    text-align:center;
+}
+
+.video-facade p {
+    position: absolute;
+    color: white;
+    background-color: rgba(0,0,0,0.5);
+    padding: 0.5em;
+    border-radius:1em;
+    left: 50%;
+    transform:translateX(-50%);
+    width: 70%;
+}
+
+.svgDiv {
+    position:absolute;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 1em;
+}
