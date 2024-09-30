@@ -2,7 +2,7 @@
 /**
  * Plugin Name: YouTube Video Facade: Free Version
  * Description: Replaces embedded YouTube videos with clickable facades using their thumbnails.
- * Version: 1.1
+ * Version: 1.2
  * Author: Chris Angelis, <a href="https://homeforfiction.com">Home for Fiction</a>.
  */
 
