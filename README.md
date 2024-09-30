@@ -1,1 +1,1 @@
-# YouTube-Facade-Free
+YouTube Facade (Free Version) is a very simple WordPress plugin that creates YouTube facades — an interface that "masks" another kind of content — in this case, an embedded YouTube video. For more information, take a look at [the relevant blog post](https://blog.homeforfiction.com/2024/10/07/youtube-facade-wordpress-plugin).
