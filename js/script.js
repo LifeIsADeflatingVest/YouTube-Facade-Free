@@ -10,6 +10,14 @@ document.addEventListener('DOMContentLoaded', function () {
             iframe.setAttribute('height', '281');
             iframe.setAttribute('allow', 'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share');
             facade.parentNode.replaceChild(iframe, facade);
+            document.querySelectorAll('.wp-block-embed__wrapper').forEach(element => {
+                element.classList.remove('custom-padding');
+            });
         });
     });
+
+    document.querySelectorAll('.wp-block-embed__wrapper').forEach(element => {
+        element.classList.add('custom-padding');
+    });
+
 });
